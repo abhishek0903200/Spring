@@ -1,5 +1,5 @@
 package com.example.loose;
 
-public interface  NotificationService {
+public interface NotificationService {
     void send(String message);
 }
